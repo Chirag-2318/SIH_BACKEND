@@ -1,5 +1,4 @@
 package com.tourism.safety.tourist_safety_system.Model;
-
 import jakarta.persistence.*;
 import lombok.*;
 import java.time.LocalDateTime;
